@@ -9,7 +9,7 @@ The backend validates input, hashes the password, and stores user data in a **My
 
 ## File Structure
 
-UserRegistration_Assignment/
+UserRegistration/
 │
 ├── frontend/
 │ ├── index.html
@@ -79,9 +79,6 @@ Note:
 3. Open the frontend `index.html` in your browser.
 4. Test registration functionality.
 
-👩‍💻 Author
 
-Name: Shreya Manerkar
-Role: Web Development Intern (Assignment Submission)
-Date: October 2025
 ```
+
